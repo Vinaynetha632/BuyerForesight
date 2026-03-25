@@ -71,9 +71,6 @@ GET https://jsonplaceholder.typicode.com/users       — all users
 GET https://jsonplaceholder.typicode.com/users/:id   — single user
 ```
 
-## Screenshots
-
-_(you can add screenshots here if needed)_
 
 ## Things I'd improve if I had more time
 
